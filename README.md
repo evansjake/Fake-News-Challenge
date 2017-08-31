@@ -1,1 +1,1 @@
-# fake-news-challenge
+# Fake-News-Challenge
